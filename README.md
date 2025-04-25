@@ -35,3 +35,14 @@ docker-compose up --build -d
 4.Access the app
 Frontend: http://localhost:8080
 Backend API: http://localhost:5000
+
+ Contact Form (Frontend)
+![Contact Form](screenshots/contact-form-filled.png)
+![image](https://github.com/user-attachments/assets/29531e56-4e83-4a01-8d7f-0214b28d8a8f)
+
+Database (PostgreSQL)
+![Database Screenshot](screenshots/database-contacts.png)
+![Screenshot 2025-04-25 201147](https://github.com/user-attachments/assets/e03fb546-8643-4648-8a98-a17700a939e7)
+
+
+
